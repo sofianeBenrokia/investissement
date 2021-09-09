@@ -1,0 +1,111 @@
+% -> %
+
+@ -> @
+m -> m
+W -> WM
+
+M -> MM
+
+& -> &
+# -> #
+^ -> ^
++ -> +
+= -> =
+D -> DM
+G -> GM
+
+> -> bigger_than
+< -> smaller_than
+
+~ -> tilde
+w -> w
+Q -> QM
+O -> OM
+
+_ -> _
+H -> HM
+
+A -> AM
+N -> NM
+U -> UM
+
+K -> KM
+R -> RM
+V -> VM
+
+B -> BM
+C -> CM
+S -> SM
+T -> TM
+X -> XM
+Y -> YM
+Z -> ZM
+
+$ -> $
+` -> `
+{ -> {
+} -> }
+* -> asterisk
+0 -> 0
+1 -> 1
+2 -> 2
+3 -> 3
+4 -> 4
+5 -> 5
+6 -> 6
+7 -> 7
+8 -> 8
+9 -> 9
+
+a -> a
+b -> b
+d -> d
+e -> e
+E -> EM
+F -> FM
+g -> g
+h -> h
+k -> k
+L -> LM
+n -> n
+o -> o
+p -> p
+P -> PM
+q -> q
+u -> u
+v -> v
+x -> x
+y -> y
+
+/ -> slash
+\ -> backslash
+c -> c
+? -> interrogation_point
+s -> s
+z -> z
+
+( -> (
+) -> )
+- -> -
+[ -> [
+] -> ]
+; -> ;
+| -> or
+: -> double_point
+" -> double_quote
+J -> JM
+r -> r
+
+! -> !
+f -> f
+I -> IM
+j -> j
+t -> t
+
+, -> ,
+. -> point
+  -> space
+
+' -> '
+i -> i
+l -> l
